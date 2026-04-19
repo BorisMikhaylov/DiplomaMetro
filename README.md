@@ -20,8 +20,7 @@ DiplomaMetro/
 ├── reports/
 │   ├── data_audit.md               # аудит данных НБС
 │   └── progress_coordinates_and_hourly.md
-├── setup_data.sh                   # загрузка данных из приватного репо
-└── CLAUDE.md                       # описание проекта для AI-ассистента
+└── setup_data.sh                   # загрузка данных из приватного репо
 ```
 
 ## Данные
