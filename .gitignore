@@ -1,0 +1,26 @@
+# Данные (хранятся отдельно в DiplomaData)
+data/
+
+# Служебные файлы Claude Code
+CLAUDE.md
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Логи запусков
+analysis/output/*.log
+nohup.out
